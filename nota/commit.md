@@ -5,7 +5,7 @@
 Commit ialah rekod perubahan yang kita buat dalam sesuatu projek GitHub.
 
 ## Fungsi
-
+- Memudahkan kita mengenal pasti bila sesuatu perubahan dibuat
 - Menyimpan perubahan
 - Merekod sejarah projek
 - Membantu kita melihat perkembangan projek
